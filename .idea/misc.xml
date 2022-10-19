@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/diego/AndroidStudioProjects/ProyectoHealtyFoodies/app/src/main/res/layout/activity_control_ingredientes.xml" value="0.25" />
+        <entry key="..\:/Users/diego/AndroidStudioProjects/ProyectoHealtyFoodies/app/src/main/res/layout/activity_control_recetas.xml" value="0.25" />
         <entry key="..\:/Users/diego/AndroidStudioProjects/ProyectoHealtyFoodies/app/src/main/res/layout/activity_crear_receta.xml" value="0.25" />
+        <entry key="..\:/Users/diego/AndroidStudioProjects/ProyectoHealtyFoodies/app/src/main/res/layout/activity_eliminar_receta.xml" value="0.25" />
         <entry key="..\:/Users/diego/AndroidStudioProjects/ProyectoHealtyFoodies/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
       </map>
     </option>
